@@ -1,5 +1,5 @@
 ### Hello, I am Thiago!
-- 🕹️ I am studying web development and C language.
+- 🕹️ I am studying web development.
 - 📧 Contact me: thiagofrankas@gmail.com
 - 🇯🇵 I can speak japanese, english and native portuguese.
 
