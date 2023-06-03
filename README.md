@@ -1,6 +1,6 @@
 # A little bit about me...
-### I am a brazilian guy who has knowledge about english, japanese and portuguese languages. 
-### I like to improve my skills every day and I am learning full-stack development.
+I am a brazilian guy who has knowledge about english, japanese and portuguese languages. 
+I like to improve my skills every day and I am learning full-stack development.
 
 # Activity
 <div>
