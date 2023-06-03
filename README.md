@@ -1,6 +1,7 @@
 # A little bit about me...
 I am a brazilian guy who has knowledge about english, japanese and portuguese languages. 
-I like to improve my skills every day and I am learning full-stack development.
+I like to improve my skills everyday and I am learning full-stack development. Actually,
+I am currently studying at UERN (Brazil). But, I am thinking about exchange.
 
 # Activity
 <div>
