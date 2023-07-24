@@ -1,7 +1,7 @@
 # A little bit about me...
 I am a brazilian guy who has knowledge about english, japanese and portuguese languages. 
 I like to improve my skills everyday and I am learning full-stack development. Actually,
-I am currently studying at UERN (Brazil). But, I am thinking about exchange.
+I am currently studying at UERN and working as front-end developer at D3TEC. 
 
 # Activity
 <div>
