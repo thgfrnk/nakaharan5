@@ -1,7 +1,9 @@
 # A little bit about me...
-I am a brazilian guy who has knowledge about english, japanese and portuguese languages. 
-I like to improve my skills everyday and I am learning full-stack development. Actually,
-I am currently studying at UERN and working as front-end developer at D3TEC and Japão FC Brasil. 😀
+I'm a Brazilian language enthusiast, fluent in English, Japanese, and Portuguese. I love improving my skills every day and am diving deep into full-stack development. Currently, I am studying at UERN and working as a front-end developer at D3TEC and Japão FC Brasil. 😄
+
+Additionally, I am a team leader at D3TEC and also lead at Japão FC. I'm the co-founder of Titan Development and a polyglot highly proficient in Japanese. As a true fan of Japanese culture, I can't miss out on mentioning my love for manga, anime, and a bit of soccer! ⚽️📚🇯🇵
+
+
 
 # Activity
 <div>
