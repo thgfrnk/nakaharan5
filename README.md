@@ -8,7 +8,7 @@ Additionally, I am a team leader at D3TEC and also lead at Japão FC. I'm the co
 # Activity
 <div>
 <a href="https://github.com/nakaharan5">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakaharan5&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakaharan5&layout=compact&langs_count=8&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakaharan5&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
 </div>   
 
