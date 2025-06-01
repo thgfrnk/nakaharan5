@@ -7,7 +7,7 @@ Additionally, I am a team leader at D3TEC and also lead at Japão FC. I'm the co
 
 # Activity
 <div>
-<a href="https://github.com/nakaharan5">
+<a href="https://github.com/thgfrnk">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakaharan5&layout=compact&langs_count=8&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakaharan5&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
 </div>   
@@ -21,7 +21,7 @@ Additionally, I am a team leader at D3TEC and also lead at Japão FC. I'm the co
           
 # Contact
 <div>
-<a href="https://instagram.com/nakaharan5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/thgfrnk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: thiagofrankas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thiago-frank-143682256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
